@@ -15,7 +15,7 @@ This is my home lab project to practice SIEM tools for SOC Analyst role.
 2. Installed Wazuh Agent on Windows VM
 3. Created alerts for: Failed Login, USB Connect, Malware
 4. Built 2 Dashboards in Wazuh for Security Monitoring
-![Alert Rule](dashboard/alert.png)
+![Dashboard](screenshots/dashboard1.png) 
 
 ## Skills Learned
 SIEM, Log Analysis, Wazuh, Splunk, Linux, Cybersecurity
